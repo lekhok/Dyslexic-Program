@@ -13,7 +13,7 @@
 
   <h2>License</h2>
 
-  <p>This program is licensed under the MIT License. See the <code>LICENSE</code> file for more information.</p>
+  <p>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). View <code>LICENSE</code> for details</p>
 
   <hr>
 
