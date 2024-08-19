@@ -1,6 +1,29 @@
+ul {
+  list-style: none;
+}
+
+a {
+  color: rgb(64, 64, 64);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(32, 32, 32);
+  font-weight: 800;
+}
+
+.dflex {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+
 #titleName {
   display: flex;
-  justify-content: center;
+  padding-left: 1.6rem;
+  padding-right: 1.6rem;
+  justify-content: space-between;
   align-items: center;
   height: 60px;
   background-color: rgb(202, 202, 202);
