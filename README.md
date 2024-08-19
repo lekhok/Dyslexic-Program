@@ -1,4 +1,3 @@
-
 <body>
   <h1>Bionic Reading</h1>
 
@@ -18,6 +17,5 @@
 
   <hr>
 
-  <p>Feel free to customize this README as needed for your project. To invite collaborators to your GitHub repository, you can go to the "Settings" tab in your repository, click on "Manage access", and then click on the "Invite a collaborator" button to add new collaborators by their GitHub username or email address.</p>
 </body>
 </html>
