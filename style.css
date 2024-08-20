@@ -8,6 +8,10 @@ a {
   text-decoration: none;
 }
 
+h1 {
+  margin-bottom: 0;
+}
+
 a:hover {
   color: rgb(32, 32, 32);
   font-weight: 800;
@@ -17,6 +21,12 @@ a:hover {
   display: flex;
   flex-direction: row;
   gap: 2rem;
+}
+
+.dcenter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 #titleName {
